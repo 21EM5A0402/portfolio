@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+   color: black;
+}
+header{
+    background-color: black;
+    padding: 10px;
+
+}
+h1{
+    color: white;
+}
+nav ul li{
+    display: inline;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: blanchedalmond;
+    padding: 20px;
+}
+#Home h2{
+    text-decoration:none;
+}
+footer{
+    background-color:violet;
+    height: 50px;
+
+}
+li{
+    display: inline;
+}
+#Portfolio{
+    background-color: rgb(23, 132, 142) ;
+
+}
+
+#Skills ul li{
+    padding: 30px;
+}
